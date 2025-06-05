@@ -51,7 +51,7 @@ A React Native application built with Expo for managing multiple timers with cat
 ### 2. Install Project Dependencies
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/thekumbhaj/timer)
    cd timer-app
    ```
 2. Install dependencies:
