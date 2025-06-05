@@ -72,6 +72,9 @@ A React Native application built with Expo for managing multiple timers with cat
    ```bash
    npx expo start
    ```
+
+   ![image](https://github.com/user-attachments/assets/0556a22e-f0ed-4fe1-acc3-91d1b6d33fad)
+
 2. You'll see a QR code in your terminal
 3. On your Android device:
    - Open the Expo Go app
