@@ -52,7 +52,7 @@ A React Native application built with Expo for managing multiple timers with cat
 1. Clone the repository:
    ```bash
    git clone (https://github.com/thekumbhaj/timer)
-   cd timer-app
+   
    ```
 2. Install dependencies:
    ```bash
@@ -65,6 +65,7 @@ A React Native application built with Expo for managing multiple timers with cat
 1. On your Android device, open the Google Play Store
 2. Search for "Expo Go"
 3. Install the Expo Go app
+4. image.png
 
 ### 4. Run the Application
 1. Start the Expo development server:
